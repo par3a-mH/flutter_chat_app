@@ -54,8 +54,8 @@ mtc = "#689e94"
 smc = "#e4e4e4"
 get = '#e4e4e4'
 # Login data
-mypassword = 'dudj hfik tesh esac'  
-email = 'prlava0012@gmail.com'  
+mypassword = ""-> پسورد ایمیل شما در فضای ارسال ایمیل گوگل
+email = ""-> ایمیل
 
 
 def send_email(to_email, code):
